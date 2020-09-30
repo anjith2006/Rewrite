@@ -1,6 +1,6 @@
 import streamlit as st
 
-from .translate_utils import forward_backward
+from translate_utils import forward_backward
 
 language= st.sidebar.selectbox(
     'Select the language to Forward back ward',['French:fr','German:de','Hindi:hi'])
