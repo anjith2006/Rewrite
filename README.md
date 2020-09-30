@@ -4,7 +4,7 @@
 
 1. Install all the packages:
     ```bash
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
     ```
 2. Run the demo:
     ```bash
