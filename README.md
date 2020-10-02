@@ -1,6 +1,3 @@
-
-# Rewrite
-
 ![reWrite Logo](/logo.png)
 --------------------------
 
