@@ -1,4 +1,7 @@
+
 # Rewrite
+![Alt text](/logo.png?raw=true)
+
 
 This is a package to quickly rewrite articles in english. The way it which it is made is to translate the input
 document into another language and back to english multiple times. Currently, it uses google translate for this, but 
@@ -15,6 +18,12 @@ could be updated with better language models and methods. PRs are welcome.
     streamlit run rewrite.py
     ```
 3. View the Streamlit app in your browser: `http://localhost:8501`
+
+
+
+![Alt text](/reWrite.png?raw=true "The screenshot of the reWrite App.")
+
+
 
 ## © Copyright
 

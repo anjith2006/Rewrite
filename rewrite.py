@@ -10,7 +10,7 @@ language= st.sidebar.selectbox(
 times= st.sidebar.selectbox(
     'Number of times',[1,2,3,4,5])
 
-st.title('Rewrite:')
+st.title('reWrite:')
 
 text = st.text_area('The sentence to rewrite.')
 
