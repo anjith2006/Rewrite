@@ -1,6 +1,8 @@
 
 # Rewrite
-![Alt text](/logo.png?raw=true)
+
+![reWrite Logo](/logo.png)
+--------------------------
 
 
 This is a package to quickly rewrite articles in english. The way it which it is made is to translate the input
