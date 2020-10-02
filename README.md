@@ -19,7 +19,8 @@ could be updated with better language models and methods. PRs are welcome.
 3. View the Streamlit app in your browser: `http://localhost:8501`
 
 
-
+Screenshot of the App.
+----------------------
 ![Alt text](/reWrite.png?raw=true "The screenshot of the reWrite App.")
 
 
